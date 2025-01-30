@@ -35,7 +35,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luynrs&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=8A89C0&icon_color=8A89C0&text_color=ffffff&border_radius=10" alt="GitHub Stats" />
 </div>
-                                                      sry, my profile hidden
+                                                                                                                        sry, my profile hidden
 
 ## 🌌 Connect With Me
 
