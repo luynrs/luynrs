@@ -27,14 +27,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luynrs&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=8A89C0&icon_color=8A89C0&text_color=ffffff&border_radius=10" alt="GitHub Stats" />
-</div>
-                                                                                                                        sry, my profile hidden
+</div>                                                                                                                  sry, my profile hidden
 
 ## 🌌 Connect With Me
 
